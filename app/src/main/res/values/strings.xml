@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextToSpeech</string>
+    <string name="anything">Enter Any Sentence</string>
+    <string name="click">Click</string>
+</resources>
